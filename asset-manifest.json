@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zai2js/static/css/main.9d8b0203.css",
+    "main.js": "/zai2js/static/js/main.883d6810.js",
+    "static/js/787.9eb7c71e.chunk.js": "/zai2js/static/js/787.9eb7c71e.chunk.js",
+    "index.html": "/zai2js/index.html",
+    "main.9d8b0203.css.map": "/zai2js/static/css/main.9d8b0203.css.map",
+    "main.883d6810.js.map": "/zai2js/static/js/main.883d6810.js.map",
+    "787.9eb7c71e.chunk.js.map": "/zai2js/static/js/787.9eb7c71e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d8b0203.css",
+    "static/js/main.883d6810.js"
+  ]
+}
